@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Multiple-items-Carousel/static/css/main.33102095.chunk.css",
+    "main.js": "/Multiple-items-Carousel/static/js/main.6f236b47.chunk.js",
+    "main.js.map": "/Multiple-items-Carousel/static/js/main.6f236b47.chunk.js.map",
+    "runtime-main.js": "/Multiple-items-Carousel/static/js/runtime-main.ffd4103a.js",
+    "runtime-main.js.map": "/Multiple-items-Carousel/static/js/runtime-main.ffd4103a.js.map",
+    "static/css/2.444d2bb3.chunk.css": "/Multiple-items-Carousel/static/css/2.444d2bb3.chunk.css",
+    "static/js/2.49eddfb9.chunk.js": "/Multiple-items-Carousel/static/js/2.49eddfb9.chunk.js",
+    "static/js/2.49eddfb9.chunk.js.map": "/Multiple-items-Carousel/static/js/2.49eddfb9.chunk.js.map",
+    "index.html": "/Multiple-items-Carousel/index.html",
+    "precache-manifest.29a90fb9ac37aa82da317230253b3263.js": "/Multiple-items-Carousel/precache-manifest.29a90fb9ac37aa82da317230253b3263.js",
+    "service-worker.js": "/Multiple-items-Carousel/service-worker.js",
+    "static/css/2.444d2bb3.chunk.css.map": "/Multiple-items-Carousel/static/css/2.444d2bb3.chunk.css.map",
+    "static/css/main.33102095.chunk.css.map": "/Multiple-items-Carousel/static/css/main.33102095.chunk.css.map",
+    "static/media/styles.css": "/Multiple-items-Carousel/static/media/revicons.2feb69cc.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffd4103a.js",
+    "static/css/2.444d2bb3.chunk.css",
+    "static/js/2.49eddfb9.chunk.js",
+    "static/css/main.33102095.chunk.css",
+    "static/js/main.6f236b47.chunk.js"
+  ]
+}
